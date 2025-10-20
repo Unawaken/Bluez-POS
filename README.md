@@ -45,3 +45,11 @@ The application will guide you through the process:
 4.  **Confirm Order** (Type `Y` or `yes`).
 5.  **Enter Payment** (The application will prompt for the exact remaining amount if the first payment is insufficient).
 6.  A **Receipt** will be printed upon successful payment.
+
+
+<img width="332" height="348" alt="image" src="https://github.com/user-attachments/assets/fbca798f-0dfd-4ffa-9372-fdc2aa83061f" />
+<img width="366" height="547" alt="image" src="https://github.com/user-attachments/assets/b5a840a2-5d9b-4ce6-bcc7-d21d547c3d6c" />
+<img width="426" height="461" alt="image" src="https://github.com/user-attachments/assets/27891ec0-d3c3-4af6-bfb8-fab35d03cb98" />
+
+
+
